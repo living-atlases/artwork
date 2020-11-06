@@ -4,6 +4,8 @@
 # Copyright 2012 Tom Vincent <http://tlvince.com/contact>	
 # From: https://gist.github.com/3374193
 #
+# Run with: ./favicon.sh ../icon-alpha.png
+#
 # This bash script takes an image as a parameter, and uses ImageMagick to
 # convert it to several other formats used on modern websites. The following
 # copies are generated:

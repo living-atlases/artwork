@@ -10,15 +10,15 @@ https://fonts.google.com/specimen/Signika?preview.text=Living%20Atlases&preview.
 
 ![](la-logo.png)
 
-Icon transparent:
+#### Icon transparent
 
 ![](icon-alpha.png)
 
-Icon in white circle (WIP):
+#### Icon in white circle (WIP)
 
 ![](icon-white.png)
 
-Favicon:
+#### Favicon
 
 ![](favicon.ico)
 
