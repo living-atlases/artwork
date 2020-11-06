@@ -16,3 +16,7 @@ Icon in white circle (WIP):
 
 ![](icon-white.png)
 
+Favicon:
+
+![](favicon.ico)
+
