@@ -10,6 +10,10 @@ https://fonts.google.com/specimen/Signika?preview.text=Living%20Atlases&preview.
 
 ![](la-logo.png)
 
+#### Gray logo
+
+![](la-logo-gray.png)
+
 #### Icon transparent
 
 ![](icon-alpha.png)
