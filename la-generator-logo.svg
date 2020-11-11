@@ -9,6 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
    width="268.87869mm"
    height="70.057945mm"
    viewBox="0 0 268.87869 70.057947"
@@ -19,8 +20,16 @@
    inkscape:export-filename="/home/vjrj/proyectos/gbif/dev/logo/la-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
-  <defs
-     id="defs2558" />
+  <xhtml:link
+     type="text/css"
+     rel="stylesheet"
+     href="https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500" />
+  <style
+     id="style26201">
+    text,flowPara { font-family: 'Signika'; text-rendering: geometricPrecision; }
+  </style>
+  <!-- End kune font part -->
+  <defs id="defs2558" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
