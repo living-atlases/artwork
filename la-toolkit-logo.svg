@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="546.83643"
+   height="370.7995"
+   viewBox="0 0 144.68381 98.107375"
+   version="1.1"
+   id="svg2564"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="la-toolkit-logo.svg"
+   inkscape:export-filename="/home/vjrj/proyectos/gbif/dev/logo/la-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <xhtml:link
+     type="text/css"
+     rel="stylesheet"
+     href="https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500" />
+  <style
+     id="style26201">
+    text,flowPara { font-family: 'Signika'; text-rendering: geometricPrecision; }
+  </style>
+  <!-- End kune font part -->
+  <defs
+     id="defs2558" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="273.41822"
+     inkscape:cy="185.39975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1080"
+     inkscape:window-y="353"
+     inkscape:window-maximized="1"
+     showborder="true"
+     units="px"
+     showguides="false" />
+  <metadata
+     id="metadata2561">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.290017,-33.710476)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1705"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,4.1925734,-0.09316594)"><flowRegion
+         id="flowRegion1707"><rect
+           id="rect1709"
+           width="8.0812206"
+           height="101.01525"
+           x="-52.527931"
+           y="-232.09885" /></flowRegion><flowPara
+         id="flowPara1711"
+         style="font-family:Signika;text-rendering:geometricPrecision" /></flowRoot>  </g>
+</svg>
