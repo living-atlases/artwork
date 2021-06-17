@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0729166"
-     inkscape:cx="48.376514"
+     inkscape:cx="-65.23153"
      inkscape:cy="55.456322"
      inkscape:document-units="px"
-     inkscape:current-layer="svg249"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
@@ -38,9 +38,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="983"
+     inkscape:window-height="1010"
      inkscape:window-x="1080"
-     inkscape:window-y="337"
+     inkscape:window-y="353"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -172,7 +172,9 @@
      inkscape:label="alpha"
      style="display:inline">
     <g
-       id="g5520">
+       id="g5520"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256">
       <circle
          r="25.400002"
          cy="109.20705"
