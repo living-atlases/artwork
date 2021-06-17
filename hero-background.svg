@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1006.2455"
-     inkscape:cy="729.52649"
+     inkscape:cx="675.82576"
+     inkscape:cy="364.01177"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -62,7 +62,7 @@
      id="layer1"
      inkscape:label="left-1">
     <rect
-       style="opacity:0.8;vector-effect:none;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.79607224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.5;vector-effect:none;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.79607224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect326"
        width="127.13594"
        height="146.31238"
@@ -74,7 +74,7 @@
      id="layer2"
      inkscape:label="left-2">
     <rect
-       style="opacity:0.8;vector-effect:none;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.71454972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.5;vector-effect:none;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.71454972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect329"
        width="160.00317"
        height="134.55251"
@@ -86,7 +86,7 @@
      id="layer3"
      inkscape:label="right">
     <path
-       style="display:inline;opacity:0.8;vector-effect:none;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.6;vector-effect:none;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 499.93164 0 L 499.93164 658.56445 L 604.58203 658.56445 L 604.58203 1080 L 1920 1080 L 1920 658.56445 L 1920 0 L 604.58203 0 L 499.93164 0 z "
        id="rect413"
        transform="scale(0.26458333)" />
