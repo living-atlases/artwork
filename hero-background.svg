@@ -17,7 +17,32 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="hero-background.svg">
   <defs
-     id="defs243" />
+     id="defs243">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter33">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix31" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter37">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix35" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter41">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix39" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,7 +54,7 @@
      inkscape:cx="675.82576"
      inkscape:cy="364.01177"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
@@ -39,8 +64,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="983"
-     inkscape:window-x="1080"
-     inkscape:window-y="308"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-page="true"
@@ -53,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +87,7 @@
      id="layer1"
      inkscape:label="left-1">
     <rect
-       style="opacity:0.5;vector-effect:none;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.79607224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.5;vector-effect:none;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.79607224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter33)"
        id="rect326"
        width="127.13594"
        height="146.31238"
@@ -74,7 +99,7 @@
      id="layer2"
      inkscape:label="left-2">
     <rect
-       style="opacity:0.5;vector-effect:none;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.71454972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.5;vector-effect:none;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.71454972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter37)"
        id="rect329"
        width="160.00317"
        height="134.55251"
@@ -86,7 +111,7 @@
      id="layer3"
      inkscape:label="right">
     <path
-       style="display:inline;opacity:0.6;vector-effect:none;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.6;vector-effect:none;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter41)"
        d="M 499.93164 0 L 499.93164 658.56445 L 604.58203 658.56445 L 604.58203 1080 L 1920 1080 L 1920 658.56445 L 1920 0 L 604.58203 0 L 499.93164 0 z "
        id="rect413"
        transform="scale(0.26458333)" />
